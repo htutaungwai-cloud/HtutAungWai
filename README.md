@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LatYr-ctrl
-- 👀 I’m interested in security
+- 👀 I’m interested in network security
 - 🌱 I’m currently learning python , Ethical Hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
