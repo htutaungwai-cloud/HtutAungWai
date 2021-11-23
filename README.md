@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LatYr-ctrl
+- 👋 Hi, I’m Htut Aung Wai
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning python , Ethical Hacking
 - 💞️ I’m looking to collaborate on ...
